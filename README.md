@@ -1,2 +1,2 @@
 # hangman
-Simple hangman games to test the IDE configs
+Simple hangman game to test the IDE configs
